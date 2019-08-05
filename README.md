@@ -3,4 +3,4 @@ some easy python projects
 
 
 ## Port Scanner
-Thanks to Ryan
+Check if there are any open ports for an IP. Thanks to Ryan
